@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MCCWireless</string>
+    <string name="txtTitle">MCC Wireless</string>
+    <string name="txtSubTitle">Make the SWITCH!</string>
+    <string name="txtOfferBtn">Click to Check Out Our Current Offers</string>
+    <string name="txtBlurb1">The #1 service provider in Lake and McHenry County!</string>
+    <string name="txtBlurb2">If you aren\'t our customer, you should be!</string>
+    <string name="txtBlurb3">95% Positive Satisfaction Rating!</string>
+    <string name="txtChoose">Choose Services</string>
+    <string name="txtDscnt">(discount for bundling)</string>
+    <string name="rbtnphone1">NO phone service</string>
+    <string name="rbtnphone2">Economy: 1G data. From $25/month</string>
+    <string name="rbtnphone3">All Star: Unlimited data. From $50/month.</string>
+    <string name="txtPhoneSubTitle">PHONE</string>
+    <string name="rbtnTV1">NO Cable TV Service</string>
+    <string name="rbtnTV2">Basic: 100 channels. From $50/month.</string>
+    <string name="rbtnTV3">All Star: 250 channels. From $85/month.</string>
+    <string name="txtTVSubTitle">CABLE TV</string>
+    <string name="rbtnInternet1">NO Internet Service</string>
+    <string name="rbtnInternet2">Regular Speed. From $45/month</string>
+    <string name="rbtnInternet3">High Speed.  From $70/month</string>
+    <string name="txtInternetSubTitle">INTERNET</string>
+    <string name="txtBtnEstimate">Pkg Estimate:</string>
+</resources>
